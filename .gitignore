@@ -1,7 +1,6 @@
-# Created by .ignore support plugin (hsz.mobi)
 .idea
 .gradle
 build
 gradle
 gradlew*
-jetty-chat.iml
+netty-chat.iml
